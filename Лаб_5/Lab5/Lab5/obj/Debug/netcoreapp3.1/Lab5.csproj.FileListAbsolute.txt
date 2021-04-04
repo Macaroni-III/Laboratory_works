@@ -1,0 +1,13 @@
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csprojAssemblyReference.cache
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+C:\Лабы\Семестр_2\Программирование\Лаб_5\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
